@@ -21,7 +21,11 @@ Most of the props are based off of the animated series, which you can watch here
 https://www.youtube.com/watch?v=fc6998pK1ak&list=PL6F5E9FD99326F98C&pp=iAQB
 
 The music is from the base games which can be found on Steam:
-https://store.steampowered.com/app/1431290?snr=5000_5100__
-https://store.steampowered.com/app/1440440/?snr=1_25_4__318
-https://store.steampowered.com/app/1747050/?snr=1_25_4__318
-https://store.steampowered.com/app/2648050/?snr=1_25_4__318
+
+This Time It's Virtual: https://store.steampowered.com/app/1431290?snr=5000_5100__
+
+Save The World: https://store.steampowered.com/app/1440440/?snr=1_25_4__318
+
+Beyond Time and Space: https://store.steampowered.com/app/1747050/?snr=1_25_4__318
+
+The Devil's Playhouse: https://store.steampowered.com/app/2648050/?snr=1_25_4__318
