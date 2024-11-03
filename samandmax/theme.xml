@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="utf-8"?>
+<theme id="samandmax" name="Sam and Max: Freelance Police">
+	<char id="sam pixel" name="Sam (Pixel)" thumb="stand.swf" facing="left" default="standside.swf" motion="walk left.swf" enable="Y" is_premium="N" aid="8710" money="0" sharing="0">
+		<action id="standside.swf" name="Stand" loop="Y" totalframe="40" enable="Y" aid="900047"/>
+		<action id="stand.swf" name="Stand" loop="Y" totalframe="40" enable="Y" aid="900047"/>
+		<action id="samsidetalk.swf" name="Talk" loop="Y" totalframe="40" enable="Y" aid="900047"/>
+		<action id="samtalk.swf" name="Talk" loop="Y" totalframe="40" enable="Y" aid="900047"/>
+		<action id="walkforward.swf" name="Walk" loop="Y" totalframe="40" enable="Y" aid="900047"/>
+		<action id="walkside.swf" name="Walk" loop="Y" totalframe="40" enable="Y" aid="900047"/>
+		<action id="walkbackview.swf" name="Walk" loop="Y" totalframe="40" enable="Y" aid="900047"/>
+		<action id="shocked.swf" name="Shocked" loop="N" totalframe="40" enable="Y" aid="900047"/>
+		<action id="puthandsinpockets.swf" name="Stand - Hands in pockets" loop="N" totalframe="30" enable="Y" aid="900047"/>
+		<action id="samtalklipsync.swf" name="Talk - Lip Sync" loop="Y" totalframe="40" enable="Y" aid="900047"/>
+		</char>
+	<char id="max pixel" name="Max (Pixel)" thumb="stand.swf" facing="left" default="stand.swf" motion="walk.swf" enable="Y" is_premium="N" aid="8710" money="0" sharing="0">
+		<action id="stand.swf" name="Stand" loop="Y" totalframe="40" enable="Y" aid="900047"/>
+		<action id="talk.swf" name="Talk" loop="Y" totalframe="40" enable="Y" aid="900047"/>
+		<action id="walk.swf" name="Walk" loop="Y" totalframe="40" enable="Y" aid="900047"/>
+		<action id="standside.swf" name="Stand" loop="Y" totalframe="40" enable="Y" aid="900047"/>
+		<action id="talkside.swf" name="Talk" loop="Y" totalframe="40" enable="Y" aid="900047"/>
+		</char>
+	<char id="brat" name="Bratty Kid" thumb="stand.swf" facing="left" default="stand.swf" motion="walk.swf" enable="Y" is_premium="N" aid="8710" money="0" sharing="0">
+		<action id="stand.swf" name="Stand" loop="Y" totalframe="40" enable="Y" aid="900047"/>
+		<action id="talk.swf" name="Talk" loop="Y" totalframe="40" enable="Y" aid="900047"/>
+		</char>
+	<char id="sam" name="Sam" thumb="stand.swf" facing="left" default="stand.swf" motion="walk.swf" enable="N" is_premium="N" aid="8710" money="0" sharing="0">
+		<action id="stand.swf" name="Stand" loop="Y" totalframe="40" enable="Y" aid="900047"/>
+		<action id="concern.swf" name="Concern" loop="Y" totalframe="40" enable="Y" aid="900047"/>
+		<action id="angry.swf" name="Angry" loop="Y" totalframe="40" enable="Y" aid="900047"/>
+		</char>
+	<prop id="dustcloudfight.swf" name="Fight Cloud" holdable="0" wearable="0" placeable="1" facing="left" thumb="biggun.swf" aid="9004" enable="Y" is_premium="N" money="0" sharing="0" />
+	<prop id="mcguffin.swf" name="McGuffin" holdable="1" wearable="0" placeable="1" facing="left" thumb="mcguffin.swf" aid="9004" enable="N" is_premium="N" money="0" sharing="0" />
+	<prop id="tape.swf" name="Tape - Music to Drive Recklessly By" holdable="1" wearable="0" placeable="1" facing="left" thumb="tape.swf" aid="9004" enable="N" is_premium="N" money="0" sharing="0" />
+	<prop id="pizzapoultice.swf" name="Pizza poultice" holdable="1" wearable="0" placeable="1" facing="left" thumb="pizzapoultice.swf" aid="9004" enable="N" is_premium="N" money="0" sharing="0" />
+	<prop id="spikeball.swf" name="Spikeball on chain" holdable="1" wearable="0" placeable="1" facing="left" thumb="spikeball.swf" aid="9004" enable="N" is_premium="N" money="0" sharing="0" />
+	<prop id="schoollunch.swf" name="School Lunch - Sam and Max" holdable="0" wearable="0" placeable="1" facing="left" thumb="schoollunch.swf" aid="9004" enable="N" is_premium="N" money="0" sharing="0" />
+	<prop id="cumbustiblecorndog.swf" name="Cumbustible Corndog" holdable="1" wearable="0" placeable="1" facing="left" thumb="cumbustiblecorndog.swf" aid="9004" enable="N" is_premium="N" money="0" sharing="0" />
+	<prop id="biggun.swf" name="Big Gun" holdable="1" wearable="0" placeable="1" facing="left" thumb="biggun.swf" aid="9004" enable="N" is_premium="N" money="0" sharing="0" />
+	<sound id="Action.mp3" name="Action" downloadtype="progressive" subtype="bgmusic" duration="165100" enable="Y" is_premium="N" aid="6035" money="0" sharing="0"/>
+	<sound id="Aqua Bear Banjo.mp3" name="Meet The Aquabears - Banjo" downloadtype="progressive" subtype="soundeffect" duration="165100" enable="Y" is_premium="N" aid="6035" money="0" sharing="0"/>
+	<sound id="Aquabear BG.mp3" name="Aquabear Park" downloadtype="progressive" subtype="bgmusic" duration="165100" enable="Y" is_premium="N" aid="6035" money="0" sharing="0"/>
+	<sound id="Aquabears Alt.mp3" name="Meet The Aquabears - Alternate" downloadtype="progressive" subtype="bgmusic" duration="165100" enable="Y" is_premium="N" aid="6035" money="0" sharing="0"/>
+	<sound id="Case.mp3" name="Case" downloadtype="progressive" subtype="bgmusic" duration="165100" enable="Y" is_premium="N" aid="6035" money="0" sharing="0"/>
+</theme> 
