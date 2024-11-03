@@ -7,8 +7,9 @@ How to add:
 
 1. Drop the folder titled "samandmax" into wrapper-offline-win32-x64\resources\app\server\store\3a981f5cb2739137\
 2. Go to themelist.xml and add this code:
-3. 	<theme id="samandmax" name="Sam and Max" />
-
+   <pre>
+     &lttheme id="samandmax" name="Sam and Max"/&gt 
+     </pre>
 You may need to add it to themelist-allthemes.xml if you have Truncated themelist turned on.
 
 
