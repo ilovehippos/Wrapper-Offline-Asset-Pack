@@ -13,6 +13,15 @@ How to add:
 You may need to add it to themelist-allthemes.xml if you have Truncated themelist turned on.
 
 
-The assets are based off of Sam and Max: Hit The Road
+The characters, some props, and the backgrounds are based off of Sam and Max: Hit The Road
 
 Download on Steam here!: https://store.steampowered.com/app/355170/Sam__Max_Hit_the_Road/
+
+Most of the props are based off of the animated series, which you can watch here:
+https://www.youtube.com/watch?v=fc6998pK1ak&list=PL6F5E9FD99326F98C&pp=iAQB
+
+The music is from the base games which can be found on Steam:
+https://store.steampowered.com/app/1431290?snr=5000_5100__
+https://store.steampowered.com/app/1440440/?snr=1_25_4__318
+https://store.steampowered.com/app/1747050/?snr=1_25_4__318
+https://store.steampowered.com/app/2648050/?snr=1_25_4__318
