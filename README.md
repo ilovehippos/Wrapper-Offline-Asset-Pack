@@ -29,3 +29,5 @@ Save The World: https://store.steampowered.com/app/1440440/?snr=1_25_4__318
 Beyond Time and Space: https://store.steampowered.com/app/1747050/?snr=1_25_4__318
 
 The Devil's Playhouse: https://store.steampowered.com/app/2648050/?snr=1_25_4__318
+
+This project is currently unfinished, backgrounds, more props, and possibly more characters will be added in the future
