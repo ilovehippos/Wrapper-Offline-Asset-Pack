@@ -12,6 +12,10 @@
 		<action id="puthandsinpockets.swf" name="Stand - Hands in pockets" loop="N" totalframe="30" enable="Y" aid="900047"/>
 		<action id="samtalklipsync.swf" name="Talk - Lip Sync" loop="Y" totalframe="40" enable="Y" aid="900047"/>
 		<action id="standsidemad.swf" name="Mad - Side" loop="Y" totalframe="40" enable="Y" aid="900047"/>
+		<action id="open.swf" name="Open" loop="Y" totalframe="40" enable="N" aid="900047"/>
+		<action id="standbackview.swf" name="Stand - Back View" loop="N" totalframe="40" enable="Y" aid="900047"/>
+		<action id="presswrongbutton.swf" name="Press Button - Fail" loop="N" totalframe="40" enable="Y" aid="900047"/>
+		<action id="disturbed.swf" name="Disturbed" loop="N" totalframe="40" enable="Y" aid="900047"/>
 		</char>
 	<char id="max pixel" name="Max (Pixel)" thumb="stand.swf" facing="left" default="stand.swf" motion="walk.swf" enable="Y" is_premium="N" aid="8710" money="0" sharing="0">
 		<action id="stand.swf" name="Stand" loop="Y" totalframe="40" enable="Y" aid="900047"/>
