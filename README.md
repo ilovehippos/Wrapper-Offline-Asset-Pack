@@ -10,7 +10,7 @@ List of newly added themes:
 
 How to add:
 
-1. Extract the zip, then drop the folder titled "samandmax" into wrapper-offline-win32-x64\resources\app\server\store\3a981f5cb2739137\
+1. Extract the zip, then drop the folders into wrapper-offline-win32-x64\resources\app\server\store\3a981f5cb2739137\
 2. Go to themelist.xml and add this code:
    <pre>
      &lttheme id="samandmax" name="Sam and Max"/&gt 
