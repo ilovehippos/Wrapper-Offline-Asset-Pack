@@ -5,6 +5,7 @@ Some of these are also available in the Flashthemes community library!
 
 List of newly added themes:
 1. Sam and Max
+2. Adventure Time
 
 
 How to add:
@@ -13,6 +14,7 @@ How to add:
 2. Go to themelist.xml and add this code:
    <pre>
      &lttheme id="samandmax" name="Sam and Max"/&gt 
+     &lttheme id="adventuretime" name="Adventure Time"/&gt 
      </pre>
 You may need to add it to themelist-allthemes.xml if you have Truncated themelist turned on.
 
@@ -39,5 +41,12 @@ Beyond Time and Space: https://store.steampowered.com/app/1747050/?snr=1_25_4__3
 The Devil's Playhouse: https://store.steampowered.com/app/2648050/?snr=1_25_4__318
 
 Sam and Max is owned by Steve Percell, this was made to honor the series.
+
+Adventure Time theme:
+
+Everything here are from the old flashgames made back in the early 2010s
+
+Adventure Time is owned by Pedleton Ward
+
 
 This project is currently unfinished, backgrounds, more props, and possibly more characters will be added in the future!
