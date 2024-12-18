@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="utf-8"?>
+<theme id="adventuretime" name="Adventure Time">
+	<char id="finn" name="Finn" thumb="stand.swf" facing="left" default="stand.swf" motion="run.swf" enable="Y" is_premium="N" aid="8710" money="0" sharing="0">
+		<action id="stand.swf" name="Stand" loop="Y" totalframe="40" enable="Y" aid="900047"/>
+		<action id="dance.swf" name="Dance" loop="Y" totalframe="40" enable="Y" aid="900047"/>
+		<action id="run.swf" name="Run" loop="Y" totalframe="40" enable="Y" aid="900047"/>
+		<action id="bored.swf" name="Bored" loop="N" totalframe="40" enable="Y" aid="900047"/>
+		<action id="wipesweat.swf" name="Wipe Sweat" loop="N" totalframe="40" enable="Y" aid="900047"/>
+		<action id="punch.swf" name="Punch" loop="N" totalframe="40" enable="Y" aid="900047"/>
+		</char>
+	<char id="jake" name="Jake" thumb="bark.swf" facing="left" default="bark.swf" motion="bark.swf" enable="Y" is_premium="N" aid="8710" money="0" sharing="0">
+		<action id="bark.swf" name="Stand" loop="Y" totalframe="40" enable="Y" aid="900047"/>
+		<action id="dance.swf" name="Dance" loop="Y" totalframe="40" enable="Y" aid="900047"/>
+		<action id="barkv2.swf" name="Bark" loop="Y" totalframe="40" enable="Y" aid="900047"/>
+		<action id="bored.swf" name="Bored" loop="N" totalframe="40" enable="Y" aid="900047"/>
+		<action id="growandsmash.swf" name="Grow and Smash" loop="N" totalframe="40" enable="Y" aid="900047"/>
+		<action id="punch.swf" name="Punch" loop="N" totalframe="40" enable="Y" aid="900047"/>
+		</char>
+	<char id="ice king" name="Ice King" thumb="stand.swf" facing="left" default="stand.swf" motion="walk.swf" enable="Y" is_premium="N" aid="8710" money="0" sharing="0">
+		<action id="stand.swf" name="Stand" loop="Y" totalframe="40" enable="Y" aid="900047"/>
+		<motion id="walk.swf" name="Walk" loop="Y" totalframe="40" enable="Y" aid="900047"/>
+		<action id="getmadandfreeze.swf" name="Freeze" loop="N" totalframe="40" enable="Y" aid="900047"/>
+		<action id="gethit.swf" name="Get Hit" loop="N" totalframe="40" enable="Y" aid="900047"/>
+		<action id="dance.swf" name="Dance" loop="Y" totalframe="40" enable="Y" aid="900047"/>
+		<motion id="fly.swf" name="Flying" loop="Y" totalframe="40" enable="Y" aid="900047"/>
+		<action id="flyandgethit.swf" name="flying - Get Hit" loop="N" totalframe="40" enable="Y" aid="900047"/>
+		<action id="flyandcheer.swf" name="Flying - Cheer" loop="Y" totalframe="40" enable="Y" aid="900047"/>
+		<action id="flyidle.swf" name="Flying - Idle" loop="Y" totalframe="40" enable="Y" aid="900047"/>
+		<action id="flyandblast.swf" name="Flying - Blast Downwards" loop="N" totalframe="40" enable="Y" aid="900047"/>
+		<action id="knockedout.swf" name="Knocked Out" loop="N" totalframe="40" enable="Y" aid="900047"/>
+		<action id="getknockedout.swf" name="Get Knocked Out" loop="N" totalframe="40" enable="Y" aid="900047"/>
+		<action id="iceblastinair.swf" name="Flying - Ice Blast" loop="Y" totalframe="40" enable="Y" aid="900047"/>
+		<action id="angry.swf" name="Angry" loop="N" totalframe="40" enable="Y" aid="900047"/>
+		</char>
+	<prop id="Enchiridion.swf" name="Enchiridion" holdable="1" wearable="0" placeable="1" facing="left" thumb="Enchiridion.swf" aid="9004" enable="Y" is_premium="N" money="0" sharing="0" />
+	<prop id="Logo.swf" name="Logo" holdable="0" wearable="0" placeable="1" facing="left" thumb="Logo.swf" aid="9004" enable="Y" is_premium="N" money="0" sharing="0" />
+	<prop id="LogoNoBG.swf" name="Logo - No Background" holdable="0" wearable="0" placeable="1" facing="left" thumb="LogoNoBG.swf" aid="9004" enable="Y" is_premium="N" money="0" sharing="0" />
+	<prop id="LogoNoBGNoFade.swf" name="Logo - No Background, No Fade" holdable="0" wearable="0" placeable="1" facing="left" thumb="LogoNoBGNoFade.swf" aid="9004" enable="Y" is_premium="N" money="0" sharing="0" />
+	<prop id="LogoWithFade.swf" name="Logo - Fade" holdable="0" wearable="0" placeable="1" facing="left" thumb="LogoWithFade.swf" aid="9004" enable="Y" is_premium="N" money="0" sharing="0" />
+</theme> 
