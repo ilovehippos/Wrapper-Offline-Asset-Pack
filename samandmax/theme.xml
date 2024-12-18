@@ -28,11 +28,6 @@
 		<action id="stand.swf" name="Stand" loop="Y" totalframe="40" enable="Y" aid="900047"/>
 		<action id="talk.swf" name="Talk" loop="Y" totalframe="40" enable="Y" aid="900047"/>
 		</char>
-	<char id="sam" name="Sam" thumb="stand.swf" facing="left" default="stand.swf" motion="walk.swf" enable="N" is_premium="N" aid="8710" money="0" sharing="0">
-		<action id="stand.swf" name="Stand" loop="Y" totalframe="40" enable="Y" aid="900047"/>
-		<action id="concern.swf" name="Concern" loop="Y" totalframe="40" enable="Y" aid="900047"/>
-		<action id="angry.swf" name="Angry" loop="Y" totalframe="40" enable="Y" aid="900047"/>
-		</char>
 	<prop id="dustcloudfight.swf" name="Fight Cloud" holdable="0" wearable="0" placeable="1" facing="left" thumb="biggun.swf" aid="9004" enable="Y" is_premium="N" money="0" sharing="0" />
 	<prop id="mcguffin.swf" name="McGuffin" holdable="1" wearable="0" placeable="1" facing="left" thumb="mcguffin.swf" aid="9004" enable="N" is_premium="N" money="0" sharing="0" />
 	<prop id="tape.swf" name="Tape - Music to Drive Recklessly By" holdable="1" wearable="0" placeable="1" facing="left" thumb="tape.swf" aid="9004" enable="N" is_premium="N" money="0" sharing="0" />
