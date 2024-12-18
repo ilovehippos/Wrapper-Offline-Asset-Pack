@@ -46,7 +46,7 @@ Adventure Time theme:
 
 Everything here are from the old flashgames made back in the early 2010s
 
-Adventure Time is owned by Pedleton Ward
+Adventure Time is owned by Pedleton Ward, the series is available on Max and the Cartoon Network app.
 
 
 This project is currently unfinished, backgrounds, more props, and possibly more characters will be added in the future!
