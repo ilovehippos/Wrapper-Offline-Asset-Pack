@@ -1,6 +1,7 @@
 <?xml version="1.0" encoding="utf-8"?>
 <theme id="samandmax" name="Sam and Max: Freelance Police">
 	<char id="sam pixel" name="Sam (Pixel)" thumb="stand.swf" facing="left" default="standside.swf" motion="walk left.swf" enable="Y" is_premium="N" aid="8710" money="0" sharing="0">
+		<tags>samandmax,_cat:Sam and Max: Hit The Road</tags>
 		<action id="standside.swf" name="Stand" loop="Y" totalframe="40" enable="Y" aid="900047"/>
 		<action id="stand.swf" name="Stand" loop="Y" totalframe="40" enable="Y" aid="900047"/>
 		<action id="samsidetalk.swf" name="Talk" loop="Y" totalframe="40" enable="Y" aid="900047"/>
@@ -12,23 +13,34 @@
 		<action id="puthandsinpockets.swf" name="Stand - Hands in pockets" loop="N" totalframe="30" enable="Y" aid="900047"/>
 		<action id="samtalklipsync.swf" name="Talk - Lip Sync" loop="Y" totalframe="40" enable="Y" aid="900047"/>
 		<action id="standsidemad.swf" name="Mad - Side" loop="Y" totalframe="40" enable="Y" aid="900047"/>
-		<action id="open.swf" name="Open" loop="Y" totalframe="40" enable="N" aid="900047"/>
+		<action id="open.swf" name="Open" loop="Y" totalframe="40" enable="Y" aid="900047"/>
 		<action id="standbackview.swf" name="Stand - Back View" loop="N" totalframe="40" enable="Y" aid="900047"/>
 		<action id="presswrongbutton.swf" name="Press Button - Fail" loop="N" totalframe="40" enable="Y" aid="900047"/>
 		<action id="disturbed.swf" name="Disturbed" loop="N" totalframe="40" enable="Y" aid="900047"/>
 		</char>
+
 	<char id="max pixel" name="Max (Pixel)" thumb="stand.swf" facing="left" default="stand.swf" motion="walk.swf" enable="Y" is_premium="N" aid="8710" money="0" sharing="0">
+		<tags>samandmax,_cat:Sam and Max: Hit The Road</tags>
 		<action id="stand.swf" name="Stand" loop="Y" totalframe="40" enable="Y" aid="900047"/>
 		<action id="talk.swf" name="Talk" loop="Y" totalframe="40" enable="Y" aid="900047"/>
 		<action id="walk.swf" name="Walk" loop="Y" totalframe="40" enable="Y" aid="900047"/>
 		<action id="standside.swf" name="Stand" loop="Y" totalframe="40" enable="Y" aid="900047"/>
 		<action id="talkside.swf" name="Talk" loop="Y" totalframe="40" enable="Y" aid="900047"/>
 		</char>
+
 	<char id="brat" name="Bratty Kid" thumb="stand.swf" facing="left" default="stand.swf" motion="walk.swf" enable="Y" is_premium="N" aid="8710" money="0" sharing="0">
+		<tags>samandmax,_cat:Sam and Max: Hit The Road</tags>
 		<action id="stand.swf" name="Stand" loop="Y" totalframe="40" enable="Y" aid="900047"/>
 		<action id="talk.swf" name="Talk" loop="Y" totalframe="40" enable="Y" aid="900047"/>
 		</char>
-	<prop id="dustcloudfight.swf" name="Fight Cloud" holdable="0" wearable="0" placeable="1" facing="left" thumb="biggun.swf" aid="9004" enable="Y" is_premium="N" money="0" sharing="0" />
+	<char id="sam" name="Sam" thumb="stand.swf" facing="left" default="stand.swf" motion="walk.swf" enable="N" is_premium="N" aid="8710" money="0" sharing="0">
+		<action id="stand.swf" name="Stand" loop="Y" totalframe="40" enable="Y" aid="900047"/>
+		<action id="concern.swf" name="Concern" loop="Y" totalframe="40" enable="Y" aid="900047"/>
+		<action id="angry.swf" name="Angry" loop="Y" totalframe="40" enable="Y" aid="900047"/>
+		</char>
+
+	<prop id="dustcloudfight.swf" name="Fight Cloud" holdable="0" wearable="0" placeable="1" facing="left" thumb="dustcloudfight.swf" aid="9004" enable="Y" is_premium="N" money="0" sharing="0" />
+
 	<prop id="mcguffin.swf" name="McGuffin" holdable="1" wearable="0" placeable="1" facing="left" thumb="mcguffin.swf" aid="9004" enable="N" is_premium="N" money="0" sharing="0" />
 	<prop id="tape.swf" name="Tape - Music to Drive Recklessly By" holdable="1" wearable="0" placeable="1" facing="left" thumb="tape.swf" aid="9004" enable="N" is_premium="N" money="0" sharing="0" />
 	<prop id="pizzapoultice.swf" name="Pizza poultice" holdable="1" wearable="0" placeable="1" facing="left" thumb="pizzapoultice.swf" aid="9004" enable="N" is_premium="N" money="0" sharing="0" />
