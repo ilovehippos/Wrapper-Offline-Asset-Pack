@@ -1,7 +1,11 @@
-# samandmaxwrapperassets
-Sam and Max assets for Wrapper Offline
+# Wrapper Offline Mod Pack!
 
-These are also available in the Flashthemes community library.
+
+Some of these are also available in the Flashthemes community library!
+
+List of newly added themes:
+1. Sam and Max
+
 
 How to add:
 
@@ -12,6 +16,10 @@ How to add:
      </pre>
 You may need to add it to themelist-allthemes.xml if you have Truncated themelist turned on.
 
+
+#Other Information
+
+Sam and Max theme:
 
 The characters, some props, and the backgrounds are based off of Sam and Max: Hit The Road
 
@@ -30,4 +38,6 @@ Beyond Time and Space: https://store.steampowered.com/app/1747050/?snr=1_25_4__3
 
 The Devil's Playhouse: https://store.steampowered.com/app/2648050/?snr=1_25_4__318
 
-This project is currently unfinished, backgrounds, more props, and possibly more characters will be added in the future
+Sam and Max is owned by Steve Percell, this was made to honor the series.
+
+This project is currently unfinished, backgrounds, more props, and possibly more characters will be added in the future!
