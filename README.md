@@ -17,7 +17,7 @@ How to add:
 You may need to add it to themelist-allthemes.xml if you have Truncated themelist turned on.
 
 
-#Other Information
+# Other Information
 
 Sam and Max theme:
 
